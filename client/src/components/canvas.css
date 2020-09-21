@@ -1,0 +1,10 @@
+.canvas {
+  position: absolute;
+  display: block;
+  left : 430px;
+  margin-left: 30px;
+  margin-right: 50px;
+  margin-top: 150px;
+  height: 83%;
+  width: 77%;
+}
